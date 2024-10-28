@@ -10,3 +10,6 @@ Developed a sleek, responsive landing page using a modern front-end stack. Key t
 
 Demo:
   - [DEMO LINK](https://annbpiu.github.io/landing_miami/)
+
+The layout I used:
+ - [MACKUP](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=aQNvTt1qquahfzC1-0)
